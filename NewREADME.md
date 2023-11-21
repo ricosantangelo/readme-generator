@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-This will generate a README through the terminal
+Will generate a README via the terminal
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,10 +13,10 @@ This will generate a README through the terminal
 - [Questions](#questions)
 
 ## Installation
-Go to my repo and clone my repository
+clone my repository
 
 ## Usage
-npm init then node index.js in the terminal 
+npm init -y, then node index.js in the terminal
 
 ## Contributing
 NA
