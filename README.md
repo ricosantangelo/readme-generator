@@ -30,3 +30,6 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 ## Questions
 For any questions, please contact me at [ricosantangelo@gmail.com](mailto:ricosantangelo@gmail.com).
 GitHub: [ricosantangelo](https://github.com/ricosantangelo)
+
+## Link to Video
+https://drive.google.com/file/d/1k9BvS-g47QetDaO16XYCsHcH92yEhP2G/view
